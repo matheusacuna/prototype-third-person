@@ -61,7 +61,9 @@
      <Compile Include="Assets\Samples\Cinemachine\2.7.1\Cinemachine Example Scenes\Shared\Scripts\SpawnInCircle.cs" />
      <Compile Include="Assets\Scripts\Animator\attackisDone.cs" />
      <Compile Include="Assets\Scripts\DynamicCam.cs" />
+     <Compile Include="Assets\Scripts\Grass.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\SlimeIA.cs" />
      <None Include="Assets\AurynSky\Gems Ultimate Pack\READ ME.txt" />
      <None Include="Assets\AssetPackage\Nicrom\PolyPacks\Wind\Documentation\LPW_Log.txt" />
      <None Include="Assets\Samples\Cinemachine\2.7.1\Cinemachine Example Scenes\Scenes\Anywhere Door\ScreenCutoutShader.shader" />
